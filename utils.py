@@ -1,4 +1,4 @@
-from selenium import webdriver
+
 import re
 import time
     # data analysis
@@ -8,7 +8,6 @@ import pickle
 from tqdm import tqdm_notebook as tqdm
     # natural language processing - NLTK
 import nltk
-nltk.download('wordnet')
 from nltk.corpus import wordnet, stopwords
 from nltk.probability import FreqDist
 from nltk.stem import WordNetLemmatizer
@@ -16,7 +15,6 @@ from nltk.stem import WordNetLemmatizer
 import gensim
 from gensim import corpora, models, similarities
 from gensim.models import CoherenceModel
-import pyLDAvis.gensim
     # natural language processing - TextBlob (Sentiment)
 from textblob import TextBlob
     # data visualization
@@ -67,7 +65,7 @@ def clean_speech_text(df):
         "full_text" column cleaned
     """
     df_new = df.copy()
-    full_text_col = df_new['full_text'].apply(lambda x: remove_references(x))
+    full_text_col = df_new['contents'].apply(lambda x: remove_references(x))
     full_text_col = full_text_col.str.replace('\n', ' ')
     full_text_col = full_text_col.apply \
         (lambda x: re.sub(r'(http)\S+(htm)(l)?', '', x))
@@ -80,8 +78,10 @@ def clean_speech_text(df):
         (lambda x: re.sub(r'([Rr]eturn to text)', '', x))
     full_text_col = full_text_col.apply \
         (lambda x: re.sub(r'([Pp]lay [vV]ideo)', '', x))
-    df_new.drop(labels='full_text', axis="columns", inplace=True)
-    df_new['full_text'] = full_text_col
+    full_text_col = full_text_col.apply \
+        (lambda x: x.replace('\n\n[SECTION]\n\n', '').replace('\n', ' ').replace('\r', ' ').strip())
+    df_new.drop(labels='contents', axis="columns", inplace=True)
+    df_new['contents'] = full_text_col
     return df_new
 
 
