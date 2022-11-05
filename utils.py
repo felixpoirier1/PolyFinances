@@ -7,10 +7,7 @@ import pandas as pd
 import pickle
 from tqdm import tqdm_notebook as tqdm
     # natural language processing - NLTK
-import nltk
-from nltk.corpus import wordnet, stopwords
-from nltk.probability import FreqDist
-from nltk.stem import WordNetLemmatizer
+import spacy
     # natural language processing - Gensim and LDA
 import gensim
 from gensim import corpora, models, similarities
@@ -111,6 +108,7 @@ def lemmatize_speech_text(text):
     Returns:
     list: lemmatized tokens
     """
+
     lemmatizer = WordNetLemmatizer()
     tokens_lower = [w.lower() for w in nltk.word_tokenize(text)]
     return [lemmatizer.lemmatize(w, get_wordnet_pos(w)) for w in tokens_lower]
