@@ -1,5 +1,8 @@
 # PolyFinances
 
+Repo de polyfinance (données) :
+- https://github.com/PolyFinances/Datathon-2022-data
+
 Quelques repos très intéressants : 
 
 - https://github.com/davidjsmith44/NLP-Fed-Speeches
