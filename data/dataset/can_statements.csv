@@ -243,12 +243,9 @@ Bank of Canada becomes administrator of Canadian Overnight Repo Rate Average,202
 Information on the calculation methodology, publishing process, terms of use and governance structure for CORRA is available on the Bank website, along with a historical data series. CORRA is still available to users through various data distributors and existing infrastructure.
 To prepare for this new role, the Bank worked closely with the Investment Industry Regulatory Organization of Canada, which provides the data that the Bank is using to calculate CORRA. The Bank also worked closely with industry participants through the Canadian Alternative Reference Rate Working Group and its subgroups. 
 Market inquiries:
-
-    
+Senior DirectorFinancial Markets DepartmentBank of Canada613‑782‑7768
 Operations and Policy AdvisorFinancial Markets DepartmentBank of Canada613‑782‑7172
 Media inquiries:
-
-    getMailLink(""communications"",""bankofcanada.ca"","""",""Media Relations"",'', """");
  Bank of Canada 613‑782‑8782"
 "Bank of Canada maintains target for the overnight rate, scales back some market operations as financial conditions improve",2020-06-03,"The Bank of Canada today maintained its target for the overnight rate at the effective lower bound of ¼ percent. The Bank Rate is correspondingly ½ percent and the deposit rate is ¼ percent.
 Incoming data confirm the severe impact of the COVID-19 pandemic on the global economy. This impact appears to have peaked, although uncertainty about how the recovery will unfold remains high. Massive policy responses in advanced economies have helped to replace lost income and cushion the effect of economic shutdowns. Financial conditions have improved, and commodity prices have risen in recent weeks after falling sharply earlier this year. Because different countries’ containment measures will be lifted at different times, the global recovery likely will be protracted and uneven.  
@@ -306,14 +303,8 @@ As announced in July 2019, the Bank will become the administrator for CORRA, tak
 Today, the Bank also published the methodology it will use to calculate CORRA, alongside an illustrative historical time series. This time series is for informational purposes only. It does not replace previously published CORRAs and should not be used for purposes other than research and comparative analysis.
 The Bank is committed to ensuring CORRA is:
 The Bank has worked closely with the Investment Industry Regulatory Organization of Canada (IIROC) as well as industry participants through the Canadian Alternative Reference Rate Working Group (CARR) and its subgroups to improve the methodology for calculating CORRA and to develop its publishing process. A comprehensive governance structure that incorporates regular review of the calculation methodology will be put in place. The Bank will also work closely with Refinitiv and other data distributors to ensure a smooth transition and continued access to data.
-
-    
  Senior Director Financial Markets Department Bank of Canada 613‑782‑7768
-
-    getMailLink(""mpadalko"",""bankofcanada.ca"","""",""Maksym Padalko"",'', """");
  Director Financial Markets Department Bank of Canada 613‑782‑7172
-
-    getMailLink(""communications"",""bankofcanada.ca"","""",""Media Relations"",'', """");
  Bank of Canada 613‑782‑8782"
 University of British Columbia crowned National Champion of The Governor’s Challenge,2020-02-10,"The University of British Columbia has won the Bank of Canada’s fifth annual Governor’s Challenge, a national student competition in which teams simulate the role of advisor to the Bank’s Governing Council. The winners were announced following the final round in Ottawa on Saturday, February 8.
 Governor Stephen S. Poloz, who awarded the championship trophy, congratulated the University of British Columbia and encouraged all the participants to continue their studies in economics and see where they can make their contribution. He told the finalists, “Whether your career takes you to private industry or public service, remember that economics is, above all, about people. Working in a profession where you get the opportunity to help improve the lives of your fellow citizens is a noble calling.”
@@ -399,9 +390,7 @@ Governor Stephen S. Poloz thanked Ms. Patterson for her important contributions 
 “Lynn has had a tremendous influence on the Bank during her tenure. She has played a key role in advancing important capital market initiatives – including establishing the Canadian Fixed Income Forum and catalyzing work on benchmark reform,” Governor Poloz said. “Lynn has also brought a real-world perspective to policy-making. Although she will be dearly missed around the Governing Council table, I am delighted that she has agreed to continue to mentor some of our emerging leaders in her retirement.”
 The Bank’s Board of Directors will undertake a process to appoint a new Deputy Governor in due course."
 The Bank of Canada releases its Annual Report for 2018,2019-04-04,"The Bank of Canada’s Annual Report for 2018 was tabled in the House of Commons today. The Report will be available at 15:00 (ET) on the Bank’s website.
-For more information, please contact 
-    
- at 613-782-8782."
+For more information, please contact  at 613-782-8782."
 Bank of Canada joins Central Banks’ and Supervisors’ Network for Greening the Financial System,2019-03-27,"The Bank of Canada today announced that it has joined the Central Banks’ and Supervisors’ Network for Greening the Financial System (NGFS). The NGFS was established in December 2017 in Paris at the One Planet Summit to strengthen the global response to the Paris Agreement on climate change. Made up of more than 30 members, the NGFS defines and promotes best practices in climate risk management for the financial sector and conducts analytical work on green finance.
 Governor Stephen S. Poloz said the Bank is committed to doing its part to better understand the implications of climate change for the economy and the financial system, and is proud to have been accepted as a member of the NGFS:
 “The importance of climate-related issues for financial stability and monetary policy have become increasingly clear. This is particularly true for Canada, where resources play a vital role in our economy and where the natural environment is a defining feature of our national identity. Joining this network is part of the Bank’s broader efforts to understand climate-related risks for the Canadian economy and financial system.”
@@ -465,22 +454,7 @@ A previous printed edition of Money and Monetary Policy in Canada is currently u
 “This initiative is the latest of many important steps the Bank has taken to communicate more clearly with Canadians,” said Governor Stephen S. Poloz. “Along with our outstanding Museum and website, the new publication helps Canadians better understand the economy and the Bank’s role. Ultimately, this understanding helps people make more-informed financial decisions and makes our own policies more effective.”
 Two articles were published today:
 Upcoming articles will explore
-With new articles posted regularly, interested readers can subscribe for instant updates.  They can also provide feedback or suggest topic ideas by emailing the Bank at 
-    function getMailLink(user, domain, class_id, content, dataAttributes, html_id="""") {
-        var addr = user + ""@"" + domain;
-        if (html_id) {
-            html_id = ' id=""' + html_id + '""';
-        }
-        if (class_id) {
-            class_id = ' class=""' + class_id + '""';
-        }
-
-        document.write(
-            '<a href=""mailto:' + addr + '""' + html_id + class_id + dataAttributes + '>' + content + '</a>'
-        );
-    }
-    getMailLink(""eps-ecs"",""bank-banque-canada.ca"","""",""eps-ecs@bank-banque-canada.ca"",'', """");
- or connecting with us on Twitter or LinkedIn.
+With new articles posted regularly, interested readers can subscribe for instant updates.  They can also provide feedback or suggest topic ideas by emailing the Bank at  or connecting with us on Twitter or LinkedIn.
 Note to editors:"
 Bank of Canada calls for nominations for the 2019 Fellowship Program awards,2018-09-10,"The Bank of Canada is inviting Canadian universities to nominate exceptional academics for its 2019 Fellowship and Governor’s awards. Presented annually, these awards distinguish and support the work of academics who are making exemplary contributions to economic and financial research in Canada.
 Because issues related to central banking extend beyond traditional monetary policy theory, the Fellowship Program is designed to foster research excellence in a broad range of fields related to the Bank’s core functions: monetary policy, financial system, currency and funds management. The program also supports collaboration between Bank staff and leading academics at Canadian post-secondary institutions.
@@ -545,9 +519,7 @@ Growth in consumption remains robust, supported by strong labour income growth. 
 Some progress has been made on the key issues being watched closely by Governing Council, particularly the dynamics of inflation and wage growth. This progress reinforces Governing Council’s view that higher interest rates will be warranted over time, although some monetary policy accommodation will still be needed to keep inflation on target. The Bank will also continue to monitor the economy’s sensitivity to interest rate movements and the evolution of economic capacity. In this context, Governing Council will remain cautious with respect to future policy adjustments, guided by incoming data.
 The next scheduled date for announcing the overnight rate target is May 30, 2018. The next full update of the Bank’s outlook for the economy and inflation, including risks to the projection, will be published in the MPR on July 11, 2018."
 The Bank of Canada releases its Annual Report for 2017,2018-03-26,"The Bank of Canada’s Annual Report for 2017 was tabled in the House of Commons today. The Report will be available at 12:00 (ET) on the Bank’s website. 
-For more information, please contact 
-    
- at 613-782-8782."
+For more information, please contact  at 613-782-8782."
 Bank of Canada announces recipients of  2018 Fellowship and Governor’s awards,2018-03-23,"The Bank of Canada is pleased to announce that Stephen D. Williamson of Western University and Peter F. Christoffersen of the University of Toronto are the 2018 recipients of the Bank’s Fellowship Award.
 Professor Williamson is an expert in macroeconomics and monetary policy. He holds Western’s Stephen A. Jarislowsky Chair in Central Banking, which aims to support work in the area of monetary policy. His most recent research is focused on better understanding conventional and unconventional monetary policy, how monetary policy should be conducted in a low interest rate environment and re-examining the relationship between monetary and fiscal policy.
 “The Bank of Canada is proud to recognize Professor Stephen D. Williamson, this year’s Fellowship Award recipient, for his outstanding contributions to research in all four of the Bank’s core functions,” said Governor Stephen S. Poloz. “His work is helping to expand knowledge in these fields. Moreover, his commitment to mentoring students and emerging researchers is fostering a new generation of thought leaders in central banking—not just in Canada, but around the world.”
@@ -599,9 +571,7 @@ A full update of the Bank’s outlook for the economy and inflation, including r
 Bank of Canada announces finalists for the third annual Governor’s Challenge,2017-11-29,"The Bank of Canada today announced the finalists for the 2017–18 edition of The Governor’s Challenge, a competition in which university students simulate the role of advisor to the Bank’s Governing Council.
 The five teams vying for the title of national champion represent the following universities:
 Governor Stephen S. Poloz congratulated the finalists and thanked all the students and professors who participated this year. “We’re now in the third year of this competition and I continue to be impressed by the ingenuity of students across this country,” the Governor said. “Monetary policy-making is evolving in real time and this competition has shown we have a bright future when it comes to tackling tomorrow’s economic challenges.”
-More information about The Governor's Challenge is available on the Bank’s website, or by contacting 
-    
-.
+More information about The Governor's Challenge is available on the Bank’s website, or by contacting .
 Notes for editors:"
 "Vulnerabilities in the Canadian financial system remain elevated, but elements for improvement are emerging",2017-11-28,"The high level of household indebtedness and housing market imbalances remain the most important vulnerabilities identified by the Bank of Canada in its Financial System Review (FSR), published today. While these vulnerabilities are still elevated, improving economic conditions and recent changes to housing policy should support an easing of these vulnerabilities over time.
 “Our financial system continues to be resilient, and is being bolstered by stronger growth and job creation, but we need to continue to watch financial vulnerabilities closely,” said Governor Stephen S. Poloz.
@@ -693,30 +663,13 @@ Professor Simutin is a leading academic whose work in financial economics has be
 “The Bank is proud to support Professor Simutin, whose ability to combine theoretical models with robust empirical analysis is already widely regarded throughout the academic, policy and practitioner communities,” said Governor Poloz. “His research at the intersection of asset pricing and financial intermediation is also particularly relevant to our mandate of promoting a sound financial system.”
 Notes to Editors:"
 The Bank of Canada Releases Its Annual Report for 2016,2017-03-23,"The Bank of Canada’s Annual Report for 2016 was tabled in the House of Commons today. The Report will be available at 12:00 (ET) on the Bank’s website.
-For more information, please contact 
-    
- at 613-782-8782."
+For more information, please contact  at 613-782-8782."
 Bank of Canada announces 2016-2017 scholarship recipients,2017-03-14,"The Bank of Canada today announced the winners of its Scholarship and Work Placement Program, which is designed to assist Indigenous students and students with disabilities in furthering their education. The program reflects the Bank’s commitment to the diversity of people, ideas and disciplines and encourages young Canadians to consider employment in fields related to the work of the central bank.
 The four successful applicants in 2016-2017 are as follows:
 “Diverse perspectives, skills, and talents are needed to help Canada adjust to the demands of an ever-evolving economy,” said Governor Stephen S. Poloz. “I look forward to seeing these students help the Bank navigate important economic challenges and opportunities in the years to come.”
 Governor Poloz also noted that the scholarship recipients represent universities in four different provinces. “I’m delighted by the national reach this program is already having in just its second year,” he said.
 The program awards a scholarship of $4,000 per year, renewable for up to four years, for tuition costs. The four students will also have the opportunity to participate in a paid summer or part-time work placement at the Bank of Canada. Both undergraduate and postgraduate students enrolled full-time at a Canadian academic institution were eligible to apply.
-For more information on the Scholarship and Work Placement Program, please visit our website or email 
-    function getMailLink(user, domain, class_id, content, dataAttributes, html_id="""") {
-        var addr = user + ""@"" + domain;
-        if (html_id) {
-            html_id = ' id=""' + html_id + '""';
-        }
-        if (class_id) {
-            class_id = ' class=""' + class_id + '""';
-        }
-
-        document.write(
-            '<a href=""mailto:' + addr + '""' + html_id + class_id + dataAttributes + '>' + content + '</a>'
-        );
-    }
-    getMailLink(""Scholarship"",""bankofcanada.ca"","""",""<em>Scholarship@bankofcanada.ca</em>"",'', """");
-."
+For more information on the Scholarship and Work Placement Program, please visit our website or email ."
 Bank of Canada begins publishing new foreign exchange rate data,2017-03-01,"The Bank of Canada today began publishing new data on the foreign exchange (FX) rate for 26 currencies, intended for statistical, analytical and informational purposes only. As previously announced, these new FX rates will be published once a day, by 16:30 Eastern time (ET), in the form of a single indicative rate per currency pair, which represents a daily average rate for that currency against the Canadian dollar.
 To allow time for users of the Bank’s FX rates to make any necessary adjustments, the Bank will continue to publish existing FX rates alongside these new FX rates from 1 March to 28 April 2017. This means that, during this period, the following will continue to be posted at their usual times: noon and closing exchange rates, high and low FX rates for a given period, and all forward exchange rates and forward points.
 To accommodate the new rates, the Exchange Rate section of the Bank’s website will be reformatted, and some data will be relocated. The URLs of the existing FX tools will, however, remain the same.
@@ -732,8 +685,7 @@ The judges for the final round were Deputy Governor Lawrence Schembri; former De
 McGill University also won the inaugural competition in 2015–16.
 For the 2016–17 edition, 24 universities from across the country participated in the preliminary round of presentations held in November. Five teams were selected for the final round, representing Wilfrid Laurier University, McGill University, the Université de Sherbrooke, the University of Toronto (St. George Campus) and the University of Waterloo.
 More information about The Governor’s Challenge and future competitions will be available on the Bank’s website this spring at The Governor’s Challenge.
-Email: 
-    "
+Email:"
 "Risks to financial stability largely unchanged, household vulnerabilities remain key concern",2016-12-15,"The overall level of risk to Canada’s financial system remains largely unchanged from six months ago, the Bank of Canada said today in the Financial System Review (FSR). The Bank continues to highlight two key vulnerabilities related to Canadian households: high levels of indebtedness and housing market imbalances. A third ongoing vulnerability is the potential for fragility in fixed-income market liquidity.
 Nonetheless, the Canadian financial system remains resilient as the nation’s economy improves and financial reforms in Canada and worldwide progress.
 Since June, the proportion of highly indebted households has continued to rise in many cities, notably in the Greater Toronto Area. Nationally, house prices continue to increase relative to income, although significant regional divergences persist. Imbalances in some regional housing markets make it more likely that adverse economic shocks could cause large declines in prices.
@@ -757,9 +709,7 @@ There were more than 140 participants from 24 Canadian universities in the 2016�
 The competition began on 18 November 2016 with a first round of presentations by video conference. The final round will take place on 4 February 2017 at the Bank’s head office in Ottawa.
 Governor Stephen S. Poloz extended his congratulations to the finalists and thanked all the students and professors who took part in the competition. “The Challenge is an outstanding learning opportunity where students can build analytical skills and a sense of teamwork—traits that will be invaluable throughout their careers,” the Governor said. “Furthermore, it provides students with insights into the Bank’s important policy-making mandate.”
 Last year, the team from McGill University won the inaugural edition of the competition.
-More information about The Governor's Challenge is available on the Bank’s website, or you can send an email to 
-    
-."
+More information about The Governor's Challenge is available on the Bank’s website, or you can send an email to ."
 "#bankNOTEable Canadian woman will be revealed on 8 December, Bank of Canada publishes short list of five",2016-11-24,"On Thursday, 8 December 2016, the Minister of Finance and the Governor of the Bank of Canada will reveal which iconic Canadian woman will be featured on the next regularly circulating bank note, expected in 2018.
 In advance of that announcement, the Bank today published the short list from which the #bankNOTEable woman will be chosen.
 An independent Advisory Council short-listed these five iconic Canadian women earlier this year for consideration by the Minister of Finance.
@@ -854,9 +804,7 @@ The Council members were announced at Roberta Bondar Public School in Ottawa, wh
 “It’s great to see women from different times and places inspiring children today,” said Governor Poloz. “We hope that this new bank note will inspire all girls and boys to see themselves as notable—perhaps even one day banknoteable—contributors to Canada.”
 Notes to Editors:"
 The Bank of Canada Releases Its Annual Report for 2015,2016-03-24,"The Bank of Canada’s Annual Report for 2015 was tabled in the House of Commons today. The Report will be available at 12:00 (ET) on the Bank’s website.
-For more information, please contact 
-    
- at 613 782-8782."
+For more information, please contact  at 613 782-8782."
 Bank of Canada launches public consultation to select Canadian woman to be on next series bank note,2016-03-08,"As announced today by Prime Minister Justin Trudeau and Minister of Finance Bill Morneau, the Bank of Canada is undertaking a broad public consultation to select an iconic Canadian woman to be featured on the first bank note of its next series. This new note will be issued in 2018.
 “In our country's nearly 150 year history, women, with the notable exception of the Queen, have largely been unrepresented on our bank notes,” said Minister Morneau. “In 2018, we will bring real change to a new generation of women who will carry with them constant reminders that they are not only Canada’s future, but a celebrated part of our history.”
 The Bank is inviting the public to nominate women who they feel are deserving of this recognition.
@@ -881,33 +829,15 @@ For the 2015–16 school year, 22 universities from across the country participa
 The judges for the final round were Deputy Governor Lawrence Schembri; Michael Ehrmann, Chief of Economic and Financial Research at the Bank; and William Robson, president and CEO of the C.D. Howe Institute. They evaluated the teams on the substance of their economic analysis, the quality of their presentation and evidence of strong teamwork.
 Deputy Governor Schembri closed the competition by congratulating the students and coaches on the quality of their presentations. “You should be proud of your achievements,” he said. “I hope you enjoyed the experience as much as I did. I look forward to future successful years of The Governor’s Challenge.”
 More information about The Governor’s Challenge and future competitions will be available on the Bank’s website in the spring of 2016 at The Governor’s Challenge.
-Email: 
-    "
+Email:"
 Bank of Canada Announces 2016 Scholarship Recipients,2016-02-12,"The Bank of Canada today announced the inaugural winners of its student Scholarship and Work Placement Program.
 The four successful applicants for 2016 are as follows:
 Each student is awarded a scholarship of $4,000 per year for tuition costs, which is renewable for up to four years. They will also have the opportunity to participate in a paid summer or part-time work placement at the Bank of Canada. Both undergraduate and post-graduate students enrolled full-time at a Canadian academic institution were eligible to apply.
 “It has become increasingly clear that solving the policy challenges of tomorrow requires diverse, innovative points of view and new ways of thinking,” said Bank of Canada Governor Stephen S. Poloz. “We are pleased to help support the next generation of thinkers through this scholarship, and I congratulate the winners.”
 The Bank’s Scholarship and Work Placement Program is designed to assist indigenous students and students with disabilities in furthering their education and to encourage them to take an interest in the work performed by the central bank. The opportunities afforded under the Program reflect the Bank’s commitment to the diversity of people and ideas as well as a desire to further enhance the Bank’s diverse and inclusive work environment.
-The application period for the 2017 scholarships will be announced later this year. For more information on the Scholarship and Work Placement Program, please visit our website or email 
-    function getMailLink(user, domain, class_id, content, dataAttributes, html_id="""") {
-        var addr = user + ""@"" + domain;
-        if (html_id) {
-            html_id = ' id=""' + html_id + '""';
-        }
-        if (class_id) {
-            class_id = ' class=""' + class_id + '""';
-        }
-
-        document.write(
-            '<a href=""mailto:' + addr + '""' + html_id + class_id + dataAttributes + '>' + content + '</a>'
-        );
-    }
-    getMailLink(""Scholarship"",""bankofcanada.ca"","""",""Scholarship@bankofcanada.ca"",'', """");
-."
+The application period for the 2017 scholarships will be announced later this year. For more information on the Scholarship and Work Placement Program, please visit our website or email ."
 Governor Stephen S. Poloz appointed Chair of the BIS Consultative Council for the Americas,2016-01-08,"The Board of Directors of the Bank for International Settlements (BIS) has appointed Stephen S. Poloz, Governor of the Bank of Canada, as Chair of the BIS Consultative Council for the Americas (CCA). The appointment is for a term of two years, effective 9 January 2016. The announcement is available on the BIS website.
-For more information, please contact 
-    
- at 613-782-8782."
+For more information, please contact  at 613-782-8782."
 "Expect policy divergence as economies adjust to shocks, Governor Poloz says",2016-01-07,"Diverging monetary policies are the natural consequence of large declines in resource prices and should be expected, Bank of Canada Governor Stephen S. Poloz said in a speech today at the Mayor’s Breakfast Series in Ottawa.
 Last month’s interest rate increase by the U.S. Federal Reserve is the first step in a long process toward normalizing monetary policy in the United States, the Governor said. While this will have implications for Canada and its financial markets, the Bank of Canada is well equipped to respond. “We have a number of tools at our disposal—both conventional and unconventional—to mitigate risks to our inflation target or to our financial system, should they arise,” he said.
 The drop in resource prices has meant large declines in the terms of trade for resource-producing countries such as Canada, Governor Poloz explained. This shock is reversing trends established in Canada over the past decade, and policy-makers should facilitate the necessary economic adjustments. “The forces that have been set in motion simply must work themselves out,” the Governor said.
@@ -928,8 +858,7 @@ The competition takes place in two parts. It began on 27 November 2015 with a fi
 On 13 February 2016, these five teams will compete against each other at the Bank’s head office in Ottawa to earn the title of The Governor’s Challenge national champion.
 Governor Stephen S. Poloz, who will present a trophy to the winners of the national round, extended his congratulations to the finalists and to all the students and professors who participated. “I sincerely hope that, through participating in this competition, students will be inspired to learn more about the Canadian economy and the important role played by the Bank of Canada,” the Governor said. “Most of all, I hope they have a lot of fun taking part.”
 For more information about The Governor's Challenge:
-Email: 
-    "
+Email:"
 Deputy Governor Agathe Côté to retire from the Bank of Canada,2015-10-26,"The Bank of Canada announced today that Deputy Governor Agathe Côté will retire at the end of January 2016.
 Agathe Côté was appointed Deputy Governor of the Bank of Canada in July 2010, with responsibility for overseeing the Bank’s analysis of domestic economic developments in support of monetary policy decisions. As a member of the Bank’s Governing Council, she has shared responsibility for decisions with respect to monetary policy and financial system stability, and for setting the strategic direction of the Bank.
 Ms. Côté joined the Bank in 1982 as an economist in the International Department and, later, in the Department of Monetary and Financial Analysis. During her career at the Bank, she served as Deputy Chief of Monetary and Financial Analysis as well as Financial Markets, and as Chief of the Bank’s Research Department (now Canadian Economic Analysis). In 2008, Ms. Côté was appointed Secretary to the Governing Council for Monetary Policy and Adviser to the Governor, with responsibilities for domestic and international monetary policy issues. Ms. Côté has also been a member of Statistics Canada’s Advisory Committee on National Accounts.
@@ -989,9 +918,7 @@ Awarded through the Bank of Canada’s Fellowship Program, the Governor’s Awar
 The Fellowship Program includes the Governor’s Award and the Fellowship Award, the latter of which was not conferred in 2015. The Program is designed to encourage leading-edge research and the development of expertise in Canada in a number of areas critical to the Bank’s mandate: macroeconomics, monetary economics and international finance, as well as the economics of financial markets and institutions, including their financial stability.
 For more information on the Bank’s Fellowship Program, please visit our website or call 613 782-8888."
 The Bank of Canada Releases Its Annual Report for 2014,2015-03-27,"The Bank of Canada’s Annual Report for 2014 was tabled in the House of Commons today. The Report will be available at 12:00 (ET) on the Bank’s website.
-For more information, please contact 
-    
- at 613 782-8782."
+For more information, please contact  at 613 782-8782."
 "Economy Has Room to Grow, Says Senior Deputy Governor Carolyn Wilkins",2015-02-10,"The Canadian economy still has room to grow, and the sharp drop in oil prices is a setback, Bank of Canada Senior Deputy Governor Carolyn Wilkins said in Ottawa today, adding that monetary policy will support the needed adjustments.
 As the Bank assesses the underlying inflation pressures in the Canadian economy, it is critical that it consider a broad range of indicators, including those that go beyond the headline unemployment rate, Ms. Wilkins said. Given the destructive recession Canada experienced, measures of economic slack that focus on the labour market show greater unused capacity than broader measures do.
 “Understanding the degree of slack in the economy helps us avoid making policy  decisions that could trigger inflationary or disinflationary pressures,” Ms. Wilkins told members of the Ottawa Economics Association. “We don’t want to inadvertently stifle the rebuilding phase of an economy that will need to adjust to a lower price of oil.”
@@ -1089,9 +1016,7 @@ Professor Sun’s primary research interests are in the fields of macroeconomic
 The Governor’s Award recognizes outstanding academics at a relatively early stage in their careers who are working at Canadian universities in areas of research critical to the Bank’s mandate. The award is granted for a non-renewable term of up to two years, subject to a review and confirmation by the Bank’s Governing Council in the last quarter of the first year. 
 The application deadline for both the 2015 Fellowship and Governor’s awards is 14 November 2014. For more information on the Bank’s Fellowship Program, please visit our website or call 613 782-8888."
 The Bank of Canada Releases Its Annual Report for 2013,2014-03-28,"The Bank of Canada’s Annual Report for 2013 was tabled in the House of Commons today. The Report will be available at 12:00 (ET) on the Bank's website.
-Note:  For more information, please contact 
-    
- at 613 782-8782."
+Note:  For more information, please contact  at 613 782-8782."
 Bank of Canada Announces Appointment of Special Adviser,2002-06-12,"The Bank of Canada today announced the appointment of Andrew Spence to the visiting economist position of Special Adviser for a one-year term. Mr. Spence will be taking leave from his current position as Global Head, Currency and Credit Markets Research with TD Securities, as of September 2002.
 This position was created to bring to the Bank of Canada additional views on monetary policy issues and to increase the number of university and private sector economists with first-hand knowledge of the institution. Mr. Spence will provide the Bank with insights in respect of financial markets and financial system stability. The previous Special Advisers were Professor David Laidler of the University of Western Ontario, Professor Daniel Racette of the École des Hautes Études Commerciales, Professor Angela Redish of the University of British Columbia, and Professor John Chant of Simon Fraser University, who currently holds the position.
 Mr. Spence graduated with a BA from the University of Alberta and a Masters from the University of Bath. He began his career as an economist at U.K. Treasury in London, England, and has worked as an economist at a number of financial institutions. Mr. Spence is a highly respected economist in the financial community. His background in the financial markets will be a particular asset in his role as visiting economist."
@@ -1119,9 +1044,7 @@ $50 CCGS Amundsen, Research Icebreaker - reflects Canada’s commitment to Arcti
 $20 The Canadian National Vimy Memorial - evokes the contributions and sacrifices of Canadians in conflicts throughout our history (Portrait: HM Queen Elizabeth II)
 $10 The Canadian train - represents Canada’s great engineering feat of linking its eastern and western frontiers by what was, at the time, the longest railway ever built (Portrait: Sir John A. Macdonald)
 $5 Canadarm2 and Dextre - symbolizes Canada’s continuing contribution to the international space station program through robotics innovation (Portrait: Sir Wilfrid Laurier)
-More information on the new Frontiers series can be obtained by contacting 
-    
-, 613 782-8782."
+More information on the new Frontiers series can be obtained by contacting , 613 782-8782."
 Bank of Canada Calls for Nominations for the 2014 Fellowship and Governor’s Awards,2013-09-27,"The Bank of Canada is calling for nominations under its Fellowship Program for 2014. This Program fosters excellence in research and analysis in Canada, and develops partnerships with experts outside of the Bank.
 Canadian universities are invited to nominate exceptional academics for the two prestigious research awards available through this Program: the Fellowship Award and the Governor’s Award.
 The Bank of Canada promotes the economic and financial welfare of Canada through its activities in four main areas: monetary policy, currency, financial system stability and funds management.   The recent experience of the financial crisis and its aftermath has shown that issues related to central banking go beyond traditional monetary policy theory. The Bank therefore wishes to encourage applications from candidates across a broad range of fields.
@@ -1160,38 +1083,9 @@ The front of the $5 note features a portrait of Sir Wilfrid Laurier, Prime Minis
 VIA Rail Canada’s Paul G. Smith unveiled the new $10 polymer note at the Bank of Canada. The new $10 note features a striking image of The Canadian train journeying through the Rocky Mountains, and represents the enormous feat of engineering that linked Canada’s East and West by rail. A portrait of Sir John A. Macdonald, who was Prime Minister of Canada (1867-1873, 1878-1891) at the time of the railway completion, is featured on the front of the note.
 “The transcontinental railway helped build modern Canada. On behalf of VIA Rail, I am delighted that this accomplishment, through the use of this iconic image, has been honoured on the new $10 bank note,” Mr. Smith said. “Not only did the railway contribute to Canada’s economic prosperity by moving people and goods across this vast land, but it also gave Canadians the means to seek new frontiers of their own.""
 Over the months leading up to the issuance of these notes in November 2013, the Bank will continue to work closely with financial institutions, manufacturers of bank-note-handling equipment and retailers to ensure a smooth transition. Businesses that use note-handling and processing equipment are encouraged to contact their suppliers about machine compatibility and plans for upgrades.
-More information on the new Polymer series can be obtained by contacting 
-    function getMailLink(user, domain, class_id, content, dataAttributes, html_id="""") {
-        var addr = user + ""@"" + domain;
-        if (html_id) {
-            html_id = ' id=""' + html_id + '""';
-        }
-        if (class_id) {
-            class_id = ' class=""' + class_id + '""';
-        }
-
-        document.write(
-            '<a href=""mailto:' + addr + '""' + html_id + class_id + dataAttributes + '>' + content + '</a>'
-        );
-    }
-    getMailLink(""communications"",""bankofcanada.ca"","""",""Jeremy Harrison"",'', """");
- at 613 782-8782."
+More information on the new Polymer series can be obtained by contacting  at 613 782-8782."
 The Bank of Canada Releases Its Annual Report for 2012,2013-04-22,"The Bank of Canada’s Annual Report for 2012 was tabled in the House of Commons today. The Report will be available at 12:00 (ET) on the Bank’s website.
-For more information, please contact 
-    function getMailLink(user, domain, class_id, content, dataAttributes, html_id="""") {
-        var addr = user + ""@"" + domain;
-        if (html_id) {
-            html_id = ' id=""' + html_id + '""';
-        }
-        if (class_id) {
-            class_id = ' class=""' + class_id + '""';
-        }
-
-        document.write(
-            '<a href=""mailto:' + addr + '""' + html_id + class_id + dataAttributes + '>' + content + '</a>'
-        );
-    }
-    getMailLink(""jharrison"",""bankofcanada.ca"","""",""Jeremy Harrison"",'', """");"
+For more information, please contact"
 Bank of Canada designates SwapClear under the Payment Clearing and Settlement Act,2013-03-26,"The Governor of the Bank of Canada has designated SwapClear as subject to ongoing regulatory oversight by the Bank under the Payment Clearing and Settlement Act (PCSA), effective 2 April 2013.
 SwapClear, established in 1999, is the dominant global system for centrally clearing over-the-counter (OTC) interest rate swaps (IRS). It is operated by LCH.Clearnet Limited (LCH), a U.K.-based company that operates a number of central counterparty (CCP) services.
 Clearing activity of Canadian institutions in SwapClear has increased substantially, in line with Canada’s G-20 commitment to centrally clear all standardized OTC derivatives. There is potential for further growth, given the decision by Canadian authorities in October 2012 that any CCP that clears OTC derivatives and is recognized by Canadian authorities, including global CCPs, can be used by Canadian market participants, provided that the CCP complies with the Principles for Financial Market Infrastructures (the Principles) published by CPSS-IOSCO 1 and that the four safeguards identified by the Financial Stability Board are met. 2
@@ -1240,22 +1134,7 @@ $50 CCGS Amundsen, Research Icebreaker - reflects Canada’s commitment to Arcti
 $20 The Canadian National Vimy Memorial - evokes the contributions and sacrifices of Canadians in conflicts throughout our history (Portrait: HM Queen Elizabeth II)
 $10 The   Canadian train   - represents Canada’s great technical feat of linking its eastern and western   frontiers by what was, at the time, the longest railway ever built (Portrait:   Sir John A. Macdonald)
 $5 Canadarm2 and Dextre - symbolize   Canada’s continuing contribution to the international space program through   robotics innovation (Portrait: Sir Wilfrid Laurier)
-More information on the new Polymer series can be obtained by contacting 
-    function getMailLink(user, domain, class_id, content, dataAttributes, html_id="""") {
-        var addr = user + ""@"" + domain;
-        if (html_id) {
-            html_id = ' id=""' + html_id + '""';
-        }
-        if (class_id) {
-            class_id = ' class=""' + class_id + '""';
-        }
-
-        document.write(
-            '<a href=""mailto:' + addr + '""' + html_id + class_id + dataAttributes + '>' + content + '</a>'
-        );
-    }
-    getMailLink(""communications"",""bankofcanada.ca"","""",""Jeremy Harrison"",'', """");
-, 613 782-8782."
+More information on the new Polymer series can be obtained by contacting , 613 782-8782."
 Deputy Governor Jean Boivin Appointed Associate Deputy Minister of Finance,2012-10-15,"The Prime Minister announced today that Jean Boivin, Deputy Governor of the Bank of Canada, has been appointed Associate Deputy Minister of Finance, effective 25 October. Mr. Boivin will also serve as Canada's Finance Deputy at the G-7, the G-20 and the Financial Stability Board.
 Bank of Canada Governor Mark Carney expressed his appreciation for Mr. Boivin's contributions during the past three years, first as a Special Adviser to the Governor and then as a member of the Bank’s Governing Council. ""Jean’s knowledge and intellectual rigour have contributed greatly to the soundness of our monetary policy decision making. Jean will continue to contribute to public policy in his new role at the Department of Finance, and we look forward to working with him,"" Governor Carney said.
 The Bank will undertake a process to select a new Deputy Governor shortly."
@@ -1302,21 +1181,7 @@ $50 CCGS Amundsen, Research Icebreaker – reflects Canada’s commitment to Arc
 $20 The   Canadian National Vimy Memorial – evokes the contributions and sacrifices of   Canadian men and women in military conflicts throughout our history.   (Portrait: HM Queen Elizabeth II)
 $10 The Canadian train—represents Canada’s great technical feat of linking its eastern and   western frontiers by what was, at the time, the longest railway ever built.   (Portrait: Sir John A. Macdonald)
 $5 Canadarm2 and Dextre—symbolizes   Canada’s continuing contribution to the international space program through   robotics innovation. (Portrait: Sir Wilfrid Laurier)
-More information on the new polymer bank note series can be obtained by contacting Jeremy Harrison at 613 782-8782 or 
-    function getMailLink(user, domain, class_id, content, dataAttributes, html_id="""") {
-        var addr = user + ""@"" + domain;
-        if (html_id) {
-            html_id = ' id=""' + html_id + '""';
-        }
-        if (class_id) {
-            class_id = ' class=""' + class_id + '""';
-        }
-
-        document.write(
-            '<a href=""mailto:' + addr + '""' + html_id + class_id + dataAttributes + '>' + content + '</a>'
-        );
-    }
-    getMailLink(""communications"",""bankofcanada.ca"","""",""communications@bankofcanada.ca"",'', """");"
+More information on the new polymer bank note series can be obtained by contacting Jeremy Harrison at 613 782-8782 or"
 Bank of Canada designates Canadian Derivatives Clearing Service under the Payment Clearing and Settlement Act,2012-04-27,"The Governor of the Bank of Canada today designated the Canadian Derivatives Clearing Service (CDCS) as subject to ongoing regulatory oversight by the Bank under the Payment Clearing and Settlement Act (PCSA), effective 30 April 2012.
 CDCS, operated by the Canadian Derivatives Clearing Corporation (CDCC), provides central counterparty services for derivative contracts traded on the Montréal Exchange, derivative contracts traded over-the-counter via CDCC’s Converge® platform, and certain fixed income securities issued or guaranteed by the Government of Canada. The fixed income central counterparty service commenced operations on 21 February 2012 and is a key initiative to improve infrastructure for Canadian-dollar core funding markets.
 “The implementation of the fixed income central counterparty service by CDCC marks significant progress towards ensuring that core funding markets in Canada remain continuously open and that our financial system becomes more resilient to shocks,” said Governor Mark Carney. “The Bank has worked closely with CDCC, the Investment Industry Association of Canada (IIAC), industry participants and fellow regulators throughout the development of this systemically important financial market infrastructure.”
@@ -1353,22 +1218,7 @@ $50 CCGS Amundsen, Research Icebreaker – reflects Canada’s commitment to Arc
 $20 The Canadian National Vimy Memorial – evokes   the contributions and sacrifices of Canadians in conflicts throughout our   history (Portrait: HM Queen Elizabeth II)
 $10 The   Canadian train   – represents Canada’s great technical feat of linking its eastern and western   frontiers by what was, at the time, the longest railway ever built (Portrait:   Sir John A. Macdonald)
 $5 Canadarm2 and Dextre – symbolize   Canada’s continuing contribution to the international space program through   robotics innovation (Portrait: Sir Wilfrid Laurier)
-More information on the new polymer bank note series can be obtained by contacting Jeremy Harrison at 613 782-8782 or 
-    function getMailLink(user, domain, class_id, content, dataAttributes, html_id="""") {
-        var addr = user + ""@"" + domain;
-        if (html_id) {
-            html_id = ' id=""' + html_id + '""';
-        }
-        if (class_id) {
-            class_id = ' class=""' + class_id + '""';
-        }
-
-        document.write(
-            '<a href=""mailto:' + addr + '""' + html_id + class_id + dataAttributes + '>' + content + '</a>'
-        );
-    }
-    getMailLink(""communications"",""bankofcanada.ca"","""",""communications@bankofcanada.ca"",'', """");
-."
+More information on the new polymer bank note series can be obtained by contacting Jeremy Harrison at 613 782-8782 or ."
 Bank of Canada Issues $100 Bill – First Canadian Polymer Bank Note,2011-11-14,"The Bank of Canada today began circulating the new $100 bill – Canada’s first polymer bank note. This new note will be available at financial institutions from coast to coast to coast over the next few weeks.
 The $100 note features a portrait of Sir Robert Borden, Prime Minister of Canada between 1911 and 1920, on the front and celebrates Canada’s contributions to innovation in the field of medicine on the back. It was officially released into circulation by Governor Mark Carney at an event in Toronto, Ontario, at the MaRS Centre – a hub for public-private sector innovation and collaboration between the business and scientific communities.
 Governor Carney was joined at the event by Dr. Ilse Treurnicht, Chief Executive Officer of MaRS Discovery District.
@@ -1423,21 +1273,6 @@ In the next six months, the Bank will focus on raising public awareness of the c
 Starting with the $20 note in 2012, the remaining bank notes in the polymer series will be issued by the end of 2013. The themes of the other denominations will be:
 The specific designs and detailed images of these notes will not be released until their official unveiling dates.
 More information on the new polymer bank note series can be obtained by contacting Jeremy Harrison, Assistant Director, Public Affairs at 613 782-8782 or 
-    function getMailLink(user, domain, class_id, content, dataAttributes, html_id="""") {
-        var addr = user + ""@"" + domain;
-        if (html_id) {
-            html_id = ' id=""' + html_id + '""';
-        }
-        if (class_id) {
-            class_id = ' class=""' + class_id + '""';
-        }
-
-        document.write(
-            '<a href=""mailto:' + addr + '""' + html_id + class_id + dataAttributes + '>' + content + '</a>'
-        );
-    }
-    getMailLink(""communications"",""bankofcanada.ca"","""",""communications@bankofcanada.ca"",'', """");
-
 Additional links:"
 The Bank of Canada Releases Its Annual Report for 2010,2011-06-09,The Bank of Canada’s Annual Report for 2010 was tabled in the House of Commons today. The Report will be available at 12:00 (ET) on the Bank's website
 "Canada Is Adjusting to Global Economic Transformation, Says Bank of Canada Governor Mark Carney",2011-05-16,"While Canada’s economy remains relatively well positioned, it is being buffeted by a significant transformation of the global economy, which is driven by a combination of secular trends and cyclical forces, Bank of Canada Governor Mark Carney said.
@@ -1746,22 +1581,7 @@ In 2004, three members of the Toronto Police Service received the award for  the
 The three recipients of the first award—Detective Carmine Palermo, Detective  Constable Thomas Hancock, and Detective Constable Harjit Sangha—were honoured at  the 2004 CACP conference in Vancouver. The next recipients will be honoured at  the 2005 CACP conference to be held in Ottawa in August. Each recipient will  receive an award, presented by a member of the Bank of Canada's Governing  Council, and their names will be inscribed on the master award that will be  permanently displayed in a public area at the Bank's head office in Ottawa.
 Award recipients are chosen by a selection committee comprising three  representatives from the Bank of Canada, and two from the CACP.
 Nominations for the 2005 Law Enforcement Award of Excellence for Counterfeit  Deterrence must be received at the Bank of Canada by 31 March 2005.
-For more information on the award, as well as the nomination process,  application procedures, and forms, visit www.bankofcanada.ca/en/banknotes.  You may also contact John Mackenzie at 
-    function getMailLink(user, domain, class_id, content, dataAttributes, html_id="""") {
-        var addr = user + ""@"" + domain;
-        if (html_id) {
-            html_id = ' id=""' + html_id + '""';
-        }
-        if (class_id) {
-            class_id = ' class=""' + class_id + '""';
-        }
-
-        document.write(
-            '<a href=""mailto:' + addr + '""' + html_id + class_id + dataAttributes + '>' + content + '</a>'
-        );
-    }
-    getMailLink(""jmackenzie"",""bankofcanada.ca"","""",""jmackenzie@bankofcanada.ca"",'', """");
- or by  calling (613) 782-7698."
+For more information on the award, as well as the nomination process,  application procedures, and forms, visit www.bankofcanada.ca/en/banknotes.  You may also contact John Mackenzie at  or by  calling (613) 782-7698."
 Bank of Canada lowers overnight rate target by 1/4 percentage point to 4 1/4 per cent,2007-12-04,"The Bank of Canada today announced that it is lowering its target for the overnight rate by one-quarter of one percentage point to 4 1/4 per cent. The operating band for the overnight rate is correspondingly lowered, and the Bank Rate is now 4 1/2 per cent.
 Since the October Monetary Policy Report (MPR), there have been a number of economic and financial developments that have a bearing on the prospects for output and inflation in Canada.
 Consistent with the outlook in the MPR, the global economic expansion has remained robust and commodity prices have continued to be strong. The Canadian economy has been growing broadly in line with the Bank's expectations, reflecting in large part underlying strength in domestic demand. However, both total CPI inflation and core inflation in October, at 2.4 per cent and 1.8 per cent respectively, were below the Bank's expectations, reflecting increased competitive pressures related to the level of the Canadian dollar. The Bank now expects inflation over the next several months to be lower than was projected in the MPR. In the context of exceptional volatility in global financial markets, the Canadian dollar spiked well above parity with the U.S. dollar in November, but it has recently traded closer to the 98-cent-U.S. level assumed in the October MPR.
@@ -1793,22 +1613,7 @@ Many high school students currently work or will pursue a career in the retail s
 For more information on the Counterfeit Detection kit, or to order a sample, please contact the Bank of Canada at 1-888-513-8212. For more information on Canadian bank notes and their security features, please visit https://www.bankofcanada.ca/en/banknotes/.
 Durham District School Board
  Andrea Pidwerbecki
- 905 666-6313
-
-    function getMailLink(user, domain, class_id, content, dataAttributes, html_id="""") {
-        var addr = user + ""@"" + domain;
-        if (html_id) {
-            html_id = ' id=""' + html_id + '""';
-        }
-        if (class_id) {
-            class_id = ' class=""' + class_id + '""';
-        }
-
-        document.write(
-            '<a href=""mailto:' + addr + '""' + html_id + class_id + dataAttributes + '>' + content + '</a>'
-        );
-    }
-    getMailLink(""pidwerbecki_andrea"",""durham.edu.ca"","""",""pidwerbecki_andrea@durham.edu.ca "",'', """");"
+ 905 666-6313"
 The Bank of Canada is committed to providing liquidity; restores standard terms for SPRA,2007-09-06,"The Bank of Canada is committed to providing liquidity in support of the efficient functioning of Canada's financial markets.
 While money markets continue to experience difficulties, there has been significant progress in the functioning of the overnight market. Since 17 August, the overnight rate has been below the Bank of Canada's target rate and no Special Purchase and Resale Agreements (SPRAs) have been required. Against this background, effective 7 September, the Bank of Canada will restore the standard terms for SPRA, accepting only Government of Canada securities.
 The Bank of Canada continues to closely monitor financial market developments and the need for the provision of liquidity."
@@ -1895,21 +1700,6 @@ The Bank of Canada serves as fiscal agent for the federal government's retail  d
 See also: Royal Canadian Mounted Police site
 James Toccacelli 
 EDS Canada Inc.
-
-    function getMailLink(user, domain, class_id, content, dataAttributes, html_id="""") {
-        var addr = user + ""@"" + domain;
-        if (html_id) {
-            html_id = ' id=""' + html_id + '""';
-        }
-        if (class_id) {
-            class_id = ' class=""' + class_id + '""';
-        }
-
-        document.write(
-            '<a href=""mailto:' + addr + '""' + html_id + class_id + dataAttributes + '>' + content + '</a>'
-        );
-    }
-    getMailLink(""James.toccacelli"",""eds.com"","""",""James.toccacelli@eds.com"",'', """");
  
 416-814-4637"
 Bank of Canada to Upgrade $5 Bank Note,2006-04-04,"The Bank of Canada today announced that it will issue a $5 note with upgraded security features beginning 15 November 2006 as part of its ongoing effort to improve the security of Canadian bank notes.
@@ -2112,26 +1902,9 @@ Bank of Canada
  John Mackenzie
  (613)  782-7698
 
-    function getMailLink(user, domain, class_id, content, dataAttributes, html_id="""") {
-        var addr = user + ""@"" + domain;
-        if (html_id) {
-            html_id = ' id=""' + html_id + '""';
-        }
-        if (class_id) {
-            class_id = ' class=""' + class_id + '""';
-        }
-
-        document.write(
-            '<a href=""mailto:' + addr + '""' + html_id + class_id + dataAttributes + '>' + content + '</a>'
-        );
-    }
-    getMailLink(""jmackenzie"",""bankofcanada.ca"","""",""jmackenzie@bankofcanada.ca"",'', """");
-
 Canadian Association of Chiefs of Police
  Peter Cuthbert
- (613)  233-1106
-
-    getMailLink(""peter.cuthbert"",""cacp.ca"","""",""peter.cuthbert@cacp.ca"",'', """");"
+ (613)  233-1106"
 Bank of Canada lowers target for the overnight rate by 1/4 percentage point to 2 1/4 per cent,2004-03-02,"The Bank of Canada today announced that it is lowering its target for the overnight rate by one-quarter of one percentage point to 2 1/4 per cent. The operating band for the overnight rate is correspondingly lowered, and the Bank Rate is now 2 1/2 per cent.
 Information received since the Bank's last interest rate announcement has been broadly consistent with the economic outlook presented in the January Monetary Policy Report Update. As expected, core and total CPI inflation in January moved significantly below the 2 per cent inflation target. While external demand has been slightly stronger and final domestic demand in Canada slightly weaker than expected, the Bank's outlook remains, on balance, unchanged.
 In this context, today's decision to provide some additional monetary stimulus was taken to support aggregate demand and to return inflation to the target by the end of 2005. The Bank will monitor closely the evolution of external and domestic demand and the pressures on inflation, as the economy adjusts to global changes.
@@ -2442,27 +2215,10 @@ Ron  Morrow
  Bank of Canada
  (613)  782-8580
 
-    function getMailLink(user, domain, class_id, content, dataAttributes, html_id="""") {
-        var addr = user + ""@"" + domain;
-        if (html_id) {
-            html_id = ' id=""' + html_id + '""';
-        }
-        if (class_id) {
-            class_id = ' class=""' + class_id + '""';
-        }
-
-        document.write(
-            '<a href=""mailto:' + addr + '""' + html_id + class_id + dataAttributes + '>' + content + '</a>'
-        );
-    }
-    getMailLink(""rmorrow"",""bankofcanada.ca"","""",""rmorrow@bankofcanada.ca"",'', """");
-
 Rob  Stewart
  Financial Markets Division
  Department of Finance
- (613)  992-4468
-
-    getMailLink(""stewart.rob"",""fin.gc.ca"","""",""stewart.rob@fin.gc.ca"",'', """");"
+ (613)  992-4468"
 Bank Rate Raised by 1 Percentage Point,1998-08-27,"The Bank of Canada today raised its Bank Rate by one percentage point to 6 per cent. The Bank's operating band for the overnight rate was similarly adjusted to a range of 5½ to 6 per cent.
 Today's increase in interest rates is aimed at providing support for the Canadian dollar in order to bolster confidence, while preserving monetary conditions that will help to sustain the present non-inflationary expansion of the economy.
 For some time now, the Canadian dollar has been under persistent downward pressure. In part, this has reflected an adjustment to increased economic uncertainty in Asia, the associated downward pressure on the prices of the primary commodities that Canada exports, and the developing problems in Russia. However, the currency decline has more recently developed a momentum that, together with the upper pressure on medium- and longer-term interest rates, signals a diminishing of confidence in Canadian dollar investments. At the same time, the depreciation of the currency has resulted in a substantial easing of monetary conditions. While some of this easing has been warranted by economic developments, it is the Bank's view that it has become excessive.
