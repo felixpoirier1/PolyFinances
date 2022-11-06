@@ -3,14 +3,6 @@ import pandas as pd
 from typing import Callable, Dict
 
 
-# def addNewIndicator(
-#     indicatorFunction: Callable, indicatorName: str, priceDataFrame: pd.DataFrame
-# ) -> pd.DataFrame:
-#     indicatorDataFrame = priceDataFrame.apply(indicatorFunction, axis=0)
-#     name = indicatorName
-#     indicatorDataFrame.columns = [name]
-#
-#     return indicatorDataFrame
 
 def MACD(
     close: pd.Series,
