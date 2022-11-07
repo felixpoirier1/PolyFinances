@@ -3,14 +3,6 @@ import pandas as pd
 from typing import Callable, Dict
 
 
-# def addNewIndicator(
-#     indicatorFunction: Callable, indicatorName: str, priceDataFrame: pd.DataFrame
-# ) -> pd.DataFrame:
-#     indicatorDataFrame = priceDataFrame.apply(indicatorFunction, axis=0)
-#     name = indicatorName
-#     indicatorDataFrame.columns = [name]
-#
-#     return indicatorDataFrame
 
 def MACD(
     close: pd.Series,
@@ -45,34 +37,7 @@ def MACD(
         return MACD.macd_signal()
 
 
-def AddingNewIndicators(newVariableDataFrame: pd.DataFrame,
-                        indicators: Dict[str, Callable]= {"MACD": MACD}
-                        ) -> pd.DataFrame:
-    """
-    Fonction qui permet d'ajouter des indicateurs à un dataframe.
-    On ajoute aussi ici la variable de lag de 1 jour des rendements.
-    :param newVariableDataFrame: DataFrame contenant les nouvelles variables
-    créees par la fonction createModifiedVariableForPairTrading.
-    :return: DataFrame des nouvelles variables avec les indicateurs ajoutés.
-    """
-    df_stack = stack_columns(newVariableDataFrame)
-    list_of_pairs = list(df_stack["Paire"].unique())
 
-    df_indicators = pd.DataFrame()
-
-    for paire in list_of_pairs:
-        df = df_stack[df_stack["Paire"] == paire]
-        df_copy = df.copy()
-        df_copy["Return"] = df_copy["Prix"].pct_change()
-        # Adding a lag of 1 day to the price
-        df_copy["Lag_Return_1"] = df_copy["Return"].shift(1)
-
-        for key, value in indicators.items():
-            df_copy[key] = value(df["Prix"])
-
-        df_indicators = pd.concat([df_indicators, df_copy], sort=False)
-
-    return df_indicators
 
 
 def AROON(close: pd.Series,
